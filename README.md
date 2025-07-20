@@ -1,19 +1,25 @@
-### Hello there 👋
+<h1 align="center">Alen Rubilar‑Muñoz</h1>
+<p align="center"><em>Principal Software Engineer • Applied Mathematician • ML Researcher</em></p>
 
-- 🔭 I’m currently working on a framework for low-code managed machine-learning applications
-- 😄 Pronouns: él/he/him/they
-- 🌱 I’m currently learning Rust
+### Professional snapshot
 
-### Also check...
+| Role | Organization | Focus |
+|------|--------------|-------|
+| Principal Software Engineer | **Dataroot** | Building a PaaS for managed machine‑learning applications |
+| Machine Learning / Software Intern | **Tetramem** | Analog in‑memory compute for next‑generation hardware |
 
-- [Wellytics](https://github.com/Wellytics/wellytics): a serverless surveying platform powered by NLU for qualitative analysis
+### Academic research
 
-<!--
+- Developed topological neural networks for molecular optimisation at Leipzig University  
+- Current work scales SO(n)‑equivariant models to encrypted manifolds for privacy‑preserving inference
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+### Education
 
--->
+- **B.Sc. Computer Science and Mathematics**, Minerva University (2022 – 2026)  
+- Prior coursework at Pontificia Universidad Católica de Chile and Universidad Técnica Federico Santa María
+
+### Awards
+
+- CalHacks overall winner and several partner challenges  
+- HackMIT Inclusive Workplace Challenge  
+- Samsung Solve for Tomorrow regional finalist
