@@ -5,6 +5,7 @@
 
 | Role | Organization | Focus |
 |------|--------------|-------|
+| CTO | **????** | Building encrypted machine learning |
 | Principal Software Engineer | **Dataroot** | Building a PaaS for managed machine‑learning applications |
 | Machine Learning / Software Intern | **Tetramem** | Analog in‑memory compute for next‑generation hardware |
 
