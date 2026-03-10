@@ -3,15 +3,9 @@
 
 ---
 
-Building [Alma](https://github.com/velum-labs) — learns ontologies from query traffic, enforces semantic contracts, and ships PRs when definitions drift. The thesis: query traffic is ground truth for semantics.
+Building [Alma](https://github.com/velum-labs) — learns ontologies from query traffic, enforces semantic contracts, and ships PRs when definitions drift.
 
-Previously: SO(n)‑equivariant neural networks for molecular design at [Meiler Lab](https://www.meilerlab.org/) (offered fully funded PhD, turned it down), denoising algorithms for analog in‑memory compute at [Tetramem](https://www.tetramem.com/), and co‑founded [Dataroot](https://dataroot.ca/) (ML for agriculture, $200K ARR).
-
-**B.Sc. Computer Science & Mathematics** — Minerva University (2022–2025)
-
-### Interests
-
-Hypergraphs, ontologies, knowledge representation, jazz, double bass, puzzles
+Previously: equivariant neural networks for molecular design at [Meiler Lab](https://www.meilerlab.org/), analog in‑memory compute at [Tetramem](https://www.tetramem.com/), co‑founded [Dataroot](https://dataroot.ca/).
 
 ### Selected projects
 
@@ -21,10 +15,3 @@ Hypergraphs, ontologies, knowledge representation, jazz, double bass, puzzles
 | [capstone](https://github.com/000alen/capstone) | SO(n)‑equivariant NNs for high dimensions |
 | [ontology](https://github.com/000alen/ontology) | Data ontology experiments |
 | [compute](https://github.com/000alen/compute) | Minimal re‑implementation of `@vercel/runs` |
-
-### Awards
-
-- **CalHacks** — 1st place overall
-- **HackMIT** — 1st place
-- **Samsung Solve for Tomorrow** — Regional winner
-- **Chilean university entrance exam (math)** — 850/850 (top 6 of 200,000)
