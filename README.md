@@ -1,26 +1,30 @@
 <h1 align="center">Alen Rubilar‑Muñoz</h1>
-<p align="center"><em>Principal Software Engineer • Applied Mathematician • ML Researcher</em></p>
+<p align="center">Co‑founder & CTO @ <a href="https://velum-labs.com">Velum Labs</a> (YC W26)</p>
 
-### Professional snapshot
+---
 
-| Role | Organization | Focus |
-|------|--------------|-------|
-| CTO | **????** | Building encrypted machine learning |
-| Principal Software Engineer | **Dataroot** | Building a PaaS for managed machine‑learning applications |
-| Machine Learning / Software Intern | **Tetramem** | Analog in‑memory compute for next‑generation hardware |
+Building [Alma](https://github.com/velum-labs) — learns ontologies from query traffic, enforces semantic contracts, and ships PRs when definitions drift. The thesis: query traffic is ground truth for semantics.
 
-### Academic research
+Previously: SO(n)‑equivariant neural networks for molecular design at [Meiler Lab](https://www.meilerlab.org/) (offered fully funded PhD, turned it down), denoising algorithms for analog in‑memory compute at [Tetramem](https://www.tetramem.com/), and co‑founded [Dataroot](https://dataroot.ca/) (ML for agriculture, $200K ARR).
 
-- Developed topological neural networks for molecular optimisation at Leipzig University  
-- Current work scales SO(n)‑equivariant models to encrypted manifolds for privacy‑preserving inference
+**B.Sc. Computer Science & Mathematics** — Minerva University (2022–2025)
 
-### Education
+### Interests
 
-- **B.Sc. Computer Science and Mathematics**, Minerva University (2022 – 2026)  
-- Prior coursework at Pontificia Universidad Católica de Chile and Universidad Técnica Federico Santa María
+Hypergraphs, ontologies, knowledge representation, jazz, double bass, puzzles
+
+### Selected projects
+
+| Project | Description |
+|---------|-------------|
+| [nChess](https://github.com/000alen/nChess) | N‑dimensional chess framework |
+| [capstone](https://github.com/000alen/capstone) | SO(n)‑equivariant NNs for high dimensions |
+| [ontology](https://github.com/000alen/ontology) | Data ontology experiments |
+| [compute](https://github.com/000alen/compute) | Minimal re‑implementation of `@vercel/runs` |
 
 ### Awards
 
-- CalHacks overall winner and several partner challenges  
-- HackMIT Inclusive Workplace Challenge  
-- Samsung Solve for Tomorrow regional finalist
+- **CalHacks** — 1st place overall
+- **HackMIT** — 1st place
+- **Samsung Solve for Tomorrow** — Regional winner
+- **Chilean university entrance exam (math)** — 850/850 (top 6 of 200,000)
